@@ -16,7 +16,8 @@
 
 | Websites 💻 | URL 🌐 |
 | -------------- | :--------- |
-| My portfolio | https://devbymatheo.github.io/portfolio/ |
+| My portfolio | https://devbymatheo.github.io/portfolio/   |
+| Chronologie  | https://devbymatheo.github.io/chronologie/ |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
