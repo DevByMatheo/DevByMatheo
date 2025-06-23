@@ -7,7 +7,7 @@ class Profile():
         self.age = 18
         self.mail = "mathivanov.prog@gmail.com"
         self.bio = "A passionate self-taught developer from French"
-        self.skills = ["Python", "HTML", "CSS", "JavaScript"]
+        self.places = "France"
 ```
 
 <img src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif">
